@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>khodaya be omide to</p>
         <p>elham rajabi</p>
         <p>roham and ryan jooooooni </p>
       </header>
